@@ -1,0 +1,9 @@
+{
+  "name": "complex-data-dom-loader",
+  "version": "0.0.1",
+  "description": "Convert the dom into a method-managed data structure.",
+  "main": "index.js",
+  "author": "nachao",
+  "license": "MIT",
+  "scripts": {}
+}
